@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maik._alv)
 
-![Maik GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikDev1&show_icons=true&theme=dracula&count_private=true)
+![Maik GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikDev1&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
