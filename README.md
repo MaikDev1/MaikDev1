@@ -1,5 +1,4 @@
-## Olá! Eu sou o Maik Alves 🖐️
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7014F8&size=35&center=true&vCenter=true&width=1000&lines=Ola!,+Eu+sou+o+Maik;Seja+muito+Bem-vindo+:%29)](https://git.io/typing-svg)
 
 ![Maik GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikDev1&show_icons=true&theme=radical)
 
